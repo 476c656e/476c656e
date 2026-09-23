@@ -7,7 +7,7 @@ From scattered fragments of thought, I value the process over the answer, and th
 Developers design experiences with diverse technologies.  
 I create value with these.
 
-`Kotlin` · `Spring Boot` · `MySQL` · `Redis` · `Kafka` · `AI`
+`Kotlin` · `Rust` · `Spring Boot` · `MySQL` · `Redis` · `Kafka` · `StarRocks` · `AI`
 
 <br>
 

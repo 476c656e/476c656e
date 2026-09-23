@@ -13,4 +13,4 @@ I create value with these.
 
 Also, I love dogs and cats.
 
-[![keikei.dev](https://img.shields.io/badge/kyukyu.dev-333333?style=flat-square)](https://kyukyu.dev) [![email](https://img.shields.io/badge/email-333333?style=flat-square)](mailto:476c656e@gmail.com)
+[![keikei.dev](https://img.shields.io/badge/keikei.dev-333333?style=flat-square)](https://keikei.dev) [![email](https://img.shields.io/badge/email-333333?style=flat-square)](mailto:476c656e@gmail.com)
